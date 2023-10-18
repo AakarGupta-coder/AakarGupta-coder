@@ -6,7 +6,7 @@
 
 
 
-[![@aakarg's Holopin board](https://holopin.io/api/user/board?user=aakarg)](https://holopin.io/@aakarg)
+[![An image of @aakarg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aakarg)](https://holopin.io/@aakarg)
 <!---
 AakarGupta-coder/AakarGupta-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
